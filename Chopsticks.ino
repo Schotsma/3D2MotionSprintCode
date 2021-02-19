@@ -1,11 +1,4 @@
-/* Sweep
- by BARRAGAN <http://barraganstudio.com>
- This example code is in the public domain.
 
- modified 8 Nov 2013
- by Scott Fitzgerald
- http://www.arduino.cc/en/Tutorial/Sweep
-*/ 
 //This code uses the potentiometer control code referenced from Scott Fitzgerald, however there has been additional elements added below to make it different
 
 #include <Servo.h>
