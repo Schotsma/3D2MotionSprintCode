@@ -1,11 +1,9 @@
-/* Sweep
- by BARRAGAN <http://barraganstudio.com>
- This example code is in the public domain.
-
- modified 8 Nov 2013
- by Scott Fitzgerald
- http://www.arduino.cc/en/Tutorial/Sweep
-*/ 
+// //
+//  Myservo.write and the delay are from Scott Fitzgerald
+//  modified 8 Nov 2013
+//  by Scott Fitzgerald
+//  http://www.arduino.cc/en/Tutorial/Sweep
+// */ 
 //I used this example code as a basis for my preliminary prints and used a button to start and stop the motor. The button code was also made by myself and I referenced it from a previous project.
 //I added another button to my code from the ButtonFlag code. These two buttons control the different directions of the motor. 
 
