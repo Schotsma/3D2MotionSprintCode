@@ -1,12 +1,5 @@
-/* Sweep
- by BARRAGAN <http://barraganstudio.com>
- This example code is in the public domain.
 
- modified 8 Nov 2013
- by Scott Fitzgerald
- http://www.arduino.cc/en/Tutorial/Sweep
-*/ 
-//This code uses the potentiometer control code referenced from Scott Fitzgerald, however it has been adjusted and changed into my own code for a Etch a Sketch using two potentiometers and two servo motors that makeup a arm.
+//This code uses the potentiometer control code referenced from Scott Fitzgerald,  http://www.arduino.cc/en/Tutorial/Sweep. However it has been adjusted and changed into my own code for a Etch a Sketch using two potentiometers and two servo motors that makeup a arm.
 
 #include <Servo.h>
 
