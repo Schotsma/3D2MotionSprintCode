@@ -1,11 +1,4 @@
-/* Sweep
- by BARRAGAN <http://barraganstudio.com>
- This example code is in the public domain.
 
- modified 8 Nov 2013
- by Scott Fitzgerald
- http://www.arduino.cc/en/Tutorial/Sweep
-*/ 
 //This code uses the potentiometer control code from in class, however the range of use is changed so that the string of the claw is not broken by accident.
 
 
